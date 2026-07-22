@@ -22,7 +22,7 @@ The system consists of:
 
 - Geekcreit Arduino Uno R3-compatible microcontroller
 - Sensirion SCD30 CO₂, temperature, and relative humidity sensor
-- Sensirion SHT40 temperature and relative humidity sensor
+- Adafruit SHT40 temperature and relative humidity sensor
 - DFRobot Fermion microSD card module
 - 16 GB microSD card
 
