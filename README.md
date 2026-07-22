@@ -1,11 +1,11 @@
-Arduino Environmental Monitoring System 🌿
+# Arduino Environmental Monitoring System 🌿
 A low-cost Arduino-based environmental monitoring system designed to measure atmospheric carbon dioxide (CO₂), air temperature, and relative humidity. The system acquires measurements using the Sensirion SCD30 CO₂ sensor and Adafruit SHT40 temperature and relative humidity sensor, displays the readings in real time through the Arduino Serial Monitor, and simultaneously records the data to a microSD card in CSV format for subsequent analysis.
 
 The system is built on a Geekcreit Arduino Uno R3-compatible microcontroller and integrates multiple digital sensors using the I²C communication protocol, while the DFRobot microSD card module communicates via the SPI interface to provide reliable local data logging.
 
 The project demonstrates the development of a low-cost environmental monitoring platform capable of real-time environmental sensing and local data storage.
 
-About
+# About
 
 This project was developed as a mid-semester project to demonstrate the design, assembly, programming, and testing of a low-cost environmental monitoring system.
 
