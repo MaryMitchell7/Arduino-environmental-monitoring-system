@@ -25,8 +25,6 @@ The system consists of:
 - Sensirion SHT40 temperature and relative humidity sensor
 - DFRobot Fermion microSD card module
 - 16 GB microSD card
-- Jumper wires
-- USB Type-A to Type-B cable
 
 
 ## Repository Files
