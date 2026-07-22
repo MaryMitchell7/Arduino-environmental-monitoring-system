@@ -5,7 +5,7 @@ The system is built on a Geekcreit Arduino Uno R3-compatible microcontroller and
 
 The project demonstrates the development of a low-cost environmental monitoring platform capable of real-time environmental sensing and local data storage.
 
-# About
+## About
 
 This project was developed as a mid-semester project to demonstrate the design, assembly, programming, and testing of a low-cost environmental monitoring system.
 
